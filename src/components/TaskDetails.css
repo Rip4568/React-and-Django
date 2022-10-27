@@ -1,0 +1,26 @@
+.task-resumo {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.task-titulo {
+    color: white;
+}
+
+.back-button-container {
+    width: 100%;
+}
+
+.task-detail-container {
+    background-color: #444;
+    margin: 15px 0;
+    padding: 15px 20px;
+    display: flex;
+    flex-direction: column;
+    color: #eee;
+}
+
+.task-detail-container h2 {
+    color: chartreuse;
+    margin-bottom: 5px;
+}
